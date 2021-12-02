@@ -1,8 +1,8 @@
 ## Welcome to my Software University repository!
 
-### What is contains
+### What does it contain?
 
-Basically it's meant to store problems solutions but I'll break that promise.
+Basically it's meant to store problems solutions but I'll break that rule.
 
 ```
 - Problems solutions
